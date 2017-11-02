@@ -1,6 +1,6 @@
 # LangExtOptBiIterAsync
 Sample solution showing issue with Language-Ext package and its `Task<Option<>>.BiIterAsync()` method.
-See [issue ???](https://github.com/louthy/language-ext/issues/???) on project [home](https://github.com/louthy/language-ext/).
+See [issue 299](https://github.com/louthy/language-ext/issues/299) on project [home](https://github.com/louthy/language-ext/).
 
 ## Steps
 
